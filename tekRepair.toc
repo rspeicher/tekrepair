@@ -1,0 +1,12 @@
+## Interface: 30000
+## Title: tekRepair
+## Notes: Auto-repair from guild bank
+## Author: tsigo
+## X-Credits: Tekkub Stoutwrithe
+## Version: 3.0.2.1
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+tekRepair.lua
+
